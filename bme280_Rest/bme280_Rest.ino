@@ -9,8 +9,8 @@
 Adafruit_BME280 bme; // I2C
 
 // Replace with your network details
-const char* ssid = "Airtel-WD670-0857";
-const char* password = "D8F20857";
+const char* ssid = "XXXX";
+const char* password = "XXX";
 float h, t, p, pin, dp, dc;
 char temperatureFString[6];
 char dpString[6];
